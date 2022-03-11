@@ -9,7 +9,7 @@ Use the package manager https://www.python.org/downloads/
 ## Version
 This was made with python 3.10.2
 
-## Runign the game
+## Runing the game
 ```bash
 py main.py for windows or python main.py
 python3 main.py for Linux
