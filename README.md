@@ -23,7 +23,8 @@ Turtle is a Python module that emulates the behavior of the drawing instructions
 ```
 
 ## Instructions
-hape(f): Changes the shape of the cursor. f can be "arrow", "turtle", "circle", "square", "triangle", or "classic".
+```
+shape(f): Changes the shape of the cursor. f can be "arrow", "turtle", "circle", "square", "triangle", or "classic".
 forward(d): Moves the cursor forward the distance d.
 backward(d): Moves the cursor backwards the distance d.
 right(a): Rotates the cursor to the right in degrees.
@@ -34,4 +35,5 @@ down(): Lowers the drawing pen, by default the pen will be down. When the pen is
 color(c): We change the color with which the cursor will paint to color c.
 circle(r,g): Draws a circle of radius r, if g is indicated it will draw g degrees of the circle, if nothing is indicated it will draw the entire circle.
 pensize(w): Changes the thickness of the pen to w points.
+```
 
